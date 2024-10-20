@@ -1,0 +1,8 @@
+body {
+    background-color: darkslategray;
+    h1, h2, a, p {
+        font-weight: lighter;
+        font-style: italic;
+        color: beige;
+      }
+}
